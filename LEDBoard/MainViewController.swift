@@ -19,7 +19,7 @@ class MainViewController: UIViewController, UITextFieldDelegate{
 	override func viewDidLoad() {
         super.viewDidLoad()
 		mainView.backgroundColor = .black
-		
+		print("test")
 		topView.layer.cornerRadius = 10
 		
 		mainLable.textColor = .white
