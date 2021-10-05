@@ -13,6 +13,8 @@ class TestViewController: UIViewController {
         super.viewDidLoad()
 		print("Hello world")
 		print("Bye")
+		
+		print("change")
         // Do any additional setup after loading the view.
     }
     
