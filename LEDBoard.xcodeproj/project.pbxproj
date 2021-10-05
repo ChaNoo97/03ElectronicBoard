@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE2C87F9270BD477000DF4D4 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2C87F8270BD476000DF4D4 /* TestViewController.swift */; };
 		FE85906C2706E9C400969F54 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE85906B2706E9C400969F54 /* MainViewController.swift */; };
 		FEA9829E2706DD6A00FBF30D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA9829D2706DD6A00FBF30D /* AppDelegate.swift */; };
 		FEA982A02706DD6A00FBF30D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA9829F2706DD6A00FBF30D /* SceneDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE2C87F8270BD476000DF4D4 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		FE85906B2706E9C400969F54 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		FEA9829A2706DD6A00FBF30D /* LEDBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LEDBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEA9829D2706DD6A00FBF30D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FEA982A12706DD6A00FBF30D /* ViewController.swift */,
 				FEA982A32706DD6A00FBF30D /* Main.storyboard */,
 				FE85906B2706E9C400969F54 /* MainViewController.swift */,
+				FE2C87F8270BD476000DF4D4 /* TestViewController.swift */,
 				FEA982A62706DD6C00FBF30D /* Assets.xcassets */,
 				FEA982A82706DD6C00FBF30D /* LaunchScreen.storyboard */,
 				FEA982AB2706DD6C00FBF30D /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE2C87F9270BD477000DF4D4 /* TestViewController.swift in Sources */,
 				FEA982A22706DD6A00FBF30D /* ViewController.swift in Sources */,
 				FEA9829E2706DD6A00FBF30D /* AppDelegate.swift in Sources */,
 				FEA982A02706DD6A00FBF30D /* SceneDelegate.swift in Sources */,
